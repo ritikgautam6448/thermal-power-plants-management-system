@@ -1,4 +1,4 @@
-# faculdade
+# APC
 
 An academic work written in Language C to a subject from Software Engineering Degree at the University of Brasilia called Algoritimos e Programação de Computadores
 (Algorithms and Computer Programming, which gives the freshmen an introduction to programming logic), that intends to be a prototype of a thermal power plants
