@@ -6,4 +6,4 @@ Instructions of Use:
 - The source code has some visual issues with some exceptions (not showing some data) but works exactly as was pretended for;
 - I wrote the original code in Portuguese but I pretend to translate it asap and commit an English version of it;
 - To use the program and make registrations the data entered should be valid (consumer ID, date, power plant CNPJ, etc), you can generate it at https://www.4devs.com.br/;
-- Any doubts? Contact me!
+- Any doubts? Contact me! 
